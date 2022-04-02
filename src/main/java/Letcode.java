@@ -13,6 +13,9 @@ public class Letcode {
         System.out.println(letcode.zhong(nums1,nums2));
         System.out.println(letcode.zhong(nums1,nums2));
         System.out.println(letcode.zhong(nums1,nums2));
+        System.out.println(letcode.zhong(nums1,nums2));
+        System.out.println(letcode.zhong(nums1,nums2));
+        System.out.println(letcode.zhong(nums1,nums2));
     }
 
     public int lengthOfLongestSubstring1(String s) {
