@@ -10,6 +10,9 @@ public class Letcode {
         int[] nums1=new int[]{1,3};
         int[] nums2=new int[]{2,6};
         System.out.println(letcode.zhong(nums1,nums2));
+        System.out.println(letcode.zhong(nums1,nums2));
+        System.out.println(letcode.zhong(nums1,nums2));
+        System.out.println(letcode.zhong(nums1,nums2));
     }
 
     public int lengthOfLongestSubstring1(String s) {
