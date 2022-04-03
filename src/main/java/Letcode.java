@@ -19,6 +19,8 @@ public class Letcode {
         System.out.println("xiaozhan");
         System.out.println("xiaozhan master");
         System.out.println("xiaozhan love");
+        System.out.println("I will love you forever");
+        
     }
 
     public int lengthOfLongestSubstring1(String s) {
